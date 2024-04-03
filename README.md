@@ -32,6 +32,8 @@ The database schema is defined in the `models` directory. The following tables a
 - `Orders`
 - `OrderHistory*`
 
+![](screnshots/utibu_health.png)
+
 License
 -------
 
